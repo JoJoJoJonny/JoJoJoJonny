@@ -1,7 +1,7 @@
 
 ---
 
-# 👋 Ciao, sono Mattia Bonetti
+# 👋 Ciao, sono Mattia Bonetti!
 
 🎓 Laureato in Ingegneria Informatica @ Politecnico di Milano  
 
@@ -12,11 +12,11 @@
 ---
 
 ## Repository progetti università:
-[progetto node.js](https://github.com/JoJoJoJonny/nodejs-website-university-project)
+[Token Manager - Node.js](https://github.com/JoJoJoJonny/nodejs-website-university-project)
 
-[progetto java](https://github.com/JoJoJoJonny/java-application-university-thesis)
+[Process Manager - Java](https://github.com/JoJoJoJonny/java-application-university-thesis)
 
-[mockup figma per DomuNet](https://github.com/JoJoJoJonny/figma-mockup-university-project).
+[DomuNet - Mockup Figma](https://github.com/JoJoJoJonny/figma-mockup-university-project)
 
 <!--
 **JoJoJoJonny/JoJoJoJonny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
