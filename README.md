@@ -1,4 +1,11 @@
-## Hi there 👋
+# 👋 Ciao, sono Mattia Bonetti
+
+🎓 Laureato in Ingegneria Informatica @ Politecnico di Milano  
+
+💻 Mi appassiona lo sviluppo software, sia backend che frontend, sia web che desktop
+
+🚀 Questo profilo raccoglie i miei progetti universitari e personali
+
 
 <!--
 **JoJoJoJonny/JoJoJoJonny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
