@@ -16,7 +16,7 @@
 
 [progetto java](https://github.com/JoJoJoJonny/java-application-university-thesis)
 
-
+[mockup figma per DomuNet](https://github.com/JoJoJoJonny/figma-mockup-university-project).
 
 <!--
 **JoJoJoJonny/JoJoJoJonny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
