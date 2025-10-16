@@ -14,6 +14,8 @@
 ## Repository progetti università:
 [progetto node.js](https://github.com/JoJoJoJonny/nodejs-website-university-project)
 
+[progetto java](https://github.com/JoJoJoJonny/java-application-university-thesis)
+
 
 
 <!--
