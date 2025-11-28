@@ -20,6 +20,11 @@
 
 ---
 
+## Repository per lavori personali:
+[Warehouse Manager - Electron](https://github.com/JoJoJoJonny/Electron-Magazzino-Erba)
+
+---
+
 ## Repository per Egloo:
 [Test Frontend](https://github.com/JoJoJoJonny/Test-Frontend-Egloo)
 
