@@ -5,7 +5,7 @@
 
 🎓 Laureato in Ingegneria Informatica @ Politecnico di Milano  
 
-💻 Mi appassiona lo sviluppo software, sia backend che frontend, sia web che desktop
+💻 Interessato al mondo della Data Science e Business Intelligence
 
 🚀 Questo profilo raccoglie i miei progetti universitari e personali
 
